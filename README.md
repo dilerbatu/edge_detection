@@ -40,7 +40,7 @@ For Running python code
 $ python3 edge_detector.py
 ```
 
-Example outputs:
+Example inputs and outputs:
 
 
 ![alt text](https://github.com/dilerbatu/edge_detection/blob/main/all_outputs/output_2.jpg?raw=true)
