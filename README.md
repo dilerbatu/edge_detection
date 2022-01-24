@@ -49,9 +49,9 @@ Example inputs and outputs:
 ![alt text](https://github.com/dilerbatu/edge_detection/blob/main/data/Image_2.png?raw=true)
 ![alt text](https://github.com/dilerbatu/edge_detection/blob/main/all_outputs/output_1.jpg?raw=true)
 
-
-![alt text](https://github.com/dilerbatu/edge_detection/blob/main/all_outputs/output_10.jpg?raw=true)
 ![alt text](https://github.com/dilerbatu/edge_detection/blob/main/data/Image_8.png?raw=true)
+![alt text](https://github.com/dilerbatu/edge_detection/blob/main/all_outputs/output_10.jpg?raw=true)
+
 
 
 
