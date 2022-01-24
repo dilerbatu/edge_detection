@@ -6,7 +6,7 @@ Outputs are stored in folders which is outputs_python and outputs_cpp after each
 Examples are given below.
 
 
-OpenCV version 4.5.5 was used in this project.
+OpenCV version 4.5.5 was used in this project. Hough transform was used as the main method. 
 
 
 
