@@ -40,6 +40,17 @@ For Running python code
 $ python3 edge_detector.py
 ```
 
+
+Python Code Structure
+```Python
+
+
+```
+
+
+
+
+
 Example inputs and outputs:
 
 ![alt text](https://github.com/dilerbatu/edge_detection/blob/main/data/Image_11.png?raw=true)
