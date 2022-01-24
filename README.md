@@ -13,6 +13,10 @@ OpenCV version 4.5.5 was used in this project. Hough transform was used as the m
 Installation
 
 ```
+Installing OpenCV for C++ : https://linuxize.com/post/how-to-install-opencv-on-ubuntu-20-04/
+```
+
+```
 $ git clone https://github.com/dilerbatu/edge_detection.git
 ```
 
