@@ -28,5 +28,5 @@ $ ./edge_detection_bin
 For Running python code
 
 ```
-python3 edge_detector.py
+$ python3 edge_detector.py
 ```
