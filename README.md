@@ -11,6 +11,7 @@ $ git clone https://github.com/dilerbatu/edge_detection.git
 $ cd /yourpath/edge_detection
 ```
 
+In edge_detection workspace
 ```
 $ cmake .
 $ make
