@@ -15,7 +15,7 @@ class EdgeDetector():
     image_extensions = [".png", ".jpg", ".jpeg", ".JPG", ".PNG", ".JPEG"]
 
     def get_images(self):
-        #This method serves to get all images types.
+        #This method serves to get all images from data folder.
 
         #Getting all image types.
         for extensions in self.image_extensions:
