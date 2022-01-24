@@ -16,11 +16,11 @@ $ cmake .
 $ make
 ```
 
+
 For Running C++ code
 ```
-
+$ ./edge_detection_bin
 ```
-
 
 
 
