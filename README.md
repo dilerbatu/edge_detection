@@ -42,6 +42,7 @@ $ python3 edge_detector.py
 
 Example inputs and outputs:
 
+![alt text](https://github.com/dilerbatu/edge_detection/blob/main/data/Image_11.png?raw=true)
 
 ![alt text](https://github.com/dilerbatu/edge_detection/blob/main/all_outputs/output_2.jpg?raw=true)
 
