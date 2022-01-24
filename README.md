@@ -3,7 +3,7 @@ Edge Detection using C++ and Python
 
 This project serves to find edges on a given checkerboard. 
 Outputs are stored in folders which is outputs_python and outputs_cpp after each code runs.
-
+Examples are given below.
 
 
 OpenCV version 4.5.5 was used in this project.
@@ -38,13 +38,6 @@ For Running python code
 
 ```
 $ python3 edge_detector.py
-```
-
-
-Python Code Structure
-```Python
-
-
 ```
 
 
